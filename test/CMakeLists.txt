@@ -7,6 +7,7 @@ set (SOURCES
 	test.cpp
 	circular_iteratorTest.cpp
 	circular_mapTest.cpp
+	hash_ringTest.cpp
 )
 
 include_directories(
